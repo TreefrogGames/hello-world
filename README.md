@@ -1,9 +1,2 @@
-# Hello! 
-I just made this for fun!
-I am just testing the comments.
-Can I change this more than once?
-Problably.
-I wonder how many people are looking at Git Hub per second.
-I am a bunny! :E
-Hee hee! :) :( :D :O >:D >:(
-
+# Hello!
+  I am new here, and I want to learn as much as possible, and possibly be able to make my own Blog by the end of the Summer.
